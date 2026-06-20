@@ -13,7 +13,7 @@ Dark Mode: Easy on the eyes for late-night coding or browsing.
 One-Click Copy: Click any shortcut to instantly copy the keys to your clipboard.
 
 # 🛠️ How to Install
-Download the file as a ZIP file.
+Open the file called "Windows Shortcut Extension.zip" in the repositry and download it.
 
 Unzip the folder to a location on your computer.
 
